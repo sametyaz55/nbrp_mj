@@ -1,0 +1,63 @@
+
+{ 
+    
+    "serverbilgileri": {
+    "ip":"91.151.94.26",
+    "ts": "91.151.94.26",
+    "tskanal":"924294369098485801",
+    "aktif":"https://cdn.discordapp.com/attachments/976889098381971566/984410049751433236/Sunucu_Aktif.gif", 
+    "bakım":"https://cdn.discordapp.com/attachments/976889098381971566/984410183780401182/Bakm_Zaman.gif" ,
+    "ippng":"https://cdn.discordapp.com/attachments/980821415668375613/980829073905442886/unknown.png", 
+    "res":"https://cdn.discordapp.com/attachments/976889098381971566/984410109226680380/Restart.gif"
+
+},
+
+
+    "server": {
+        "SERVER_NAME":"NBRP",
+        "SERVER_IP":"91.151.94.26",
+        "SERVER_PORT": "30120"
+    },
+
+    "bot": {
+        "token":"OTcxNzc4NDY5OTEyNTEwNTc0.GyUAql.JL44S9DGVS8ud0FI6M9cRfl1WL_KCtNvP2RLKU",
+        "owner": "918888934661046304",
+        "prefix": ".",
+        "BotFooter": "Development By Mjollner",
+        "cooldown": 8
+    },
+    "logs": {
+        "rollog": "1047955278039105638",
+        "seslog": "1047955333311635507",
+        "whitelistlog":"1047955388445769798",
+        "güvenlik":"1047955562752655481",
+        "seslidesteklog": "1047955669099221092",
+        "karakteronay": "1047955804998864976",
+        "blacklist": "1047955562752655481",
+        "uzaklaştırma": "1047955562752655481"
+        
+    },
+    "roles": {
+        "booster": "954093012873543700", 
+        "seslidestek": "1045045616104976505",
+        "karakteronayrol": "1045045721491054653",
+        "uzaklaştırmarol": "1046485503408623686"
+        
+    },
+    "channels": {
+        "voicechannel": "1047944165775908924"
+        },
+    "registration": {
+        "unregistered": "1047956285821288520",
+        "man": ["1045045701656186950"],
+       
+        "staff": "1045045617149362207"
+        },
+        "yetki": {
+            "rolveral": "1045045617149362207"
+            },
+    "Guild": {
+        "GuildID": "953259204762812446",
+        "GuildOwnerRole": ["1045065686684278865"]
+    }
+} 
